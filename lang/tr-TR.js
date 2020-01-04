@@ -41,7 +41,7 @@ export default {
   include_in_url: "URL'den içeri aktar",
   parameters: "Parametre",
   expand_response: "Cevabı genişlet",
-  collapse_response: "Cevap daralt",
+  collapse_response: "Cevabı daralt",
   hide_preview: "Görüntülemeyi gizle",
   preview_html: "HTML formatında görüntüle",
   history: "Geçmiş",
@@ -54,7 +54,7 @@ export default {
   status: "Durum",
   headers: "Headers",
   websocket: "WebSocket",
-  waiting_for_connection: "(esperando por conexión)",
+  waiting_for_connection: "(bağlantı bekleniyor)",
   message: "Mesaj",
   sse: "SSE",
   server: "Server",
@@ -79,12 +79,12 @@ export default {
   disabled: "Aktif değil",
   proxy: "Proxy",
   postwoman_official_proxy_hosting:
-    "Proxy Oficial de Postwoman está hospedado en ApolloTV.",
-  read_the: "Leer la",
+    "Official Postwoman Proxy is hosted on ApolloTV.",
+  read_the: "Lütfen okuyun",
   apollotv_privacy_policy: "ApolloTV gizlilik politikaları",
   contact_us: "Bizimle iletişime geçin",
   connect: "Bağlan",
-  disconnect: "Kesmek",
+  disconnect: "Bağlantıyı Kes",
   start: "Başla",
-  stop: "Durdurmak"
+  stop: "Durdur"
 };
